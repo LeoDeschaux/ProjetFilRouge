@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjetFilRouge",
+			"Path": "D:\\Programming\\UnrealEngine\\ProjetFilRouge\\ProjetFilRouge\\ProjetFilRouge\\ProjetFilRouge\\Source\\ProjetFilRouge.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjetFilRougeEditor",
+			"Path": "D:\\Programming\\UnrealEngine\\ProjetFilRouge\\ProjetFilRouge\\ProjetFilRouge\\ProjetFilRouge\\Source\\ProjetFilRougeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

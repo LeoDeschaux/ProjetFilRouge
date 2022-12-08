@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\source\\projetfilrouge\\projetfilrougegamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\projetfilrougeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\unrealeditor\\development\\projetfilrouge\\definitions.projetfilrouge.h",
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\source\\projetfilrouge\\projetfilrougegamemode.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\unrealeditor\\inc\\projetfilrouge\\projetfilrougegamemode.generated.h",
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\source\\projetfilrouge\\projetfilrougecharacter.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\unrealeditor\\inc\\projetfilrouge\\projetfilrougecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

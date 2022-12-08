@@ -1,0 +1,31 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\source\\projetfilrouge\\projetfilrougecharacter.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\projetfilrougeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\unrealeditor\\development\\projetfilrouge\\definitions.projetfilrouge.h",
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\source\\projetfilrouge\\projetfilrougecharacter.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\unrealeditor\\inc\\projetfilrouge\\projetfilrougecharacter.generated.h",
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\source\\projetfilrouge\\projetfilrougeprojectile.h",
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\unrealeditor\\inc\\projetfilrouge\\projetfilrougeprojectile.generated.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\cameracomponent.generated.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\capsulecomponent.generated.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\inputsettings.h",
+            "d:\\software\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\inputsettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

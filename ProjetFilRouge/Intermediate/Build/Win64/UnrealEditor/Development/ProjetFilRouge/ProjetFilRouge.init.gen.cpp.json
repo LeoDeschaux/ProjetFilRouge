@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\unrealeditor\\inc\\projetfilrouge\\projetfilrouge.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\projetfilrougeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\programming\\unrealengine\\projetfilrouge\\projetfilrouge\\projetfilrouge\\projetfilrouge\\intermediate\\build\\win64\\unrealeditor\\development\\projetfilrouge\\definitions.projetfilrouge.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
