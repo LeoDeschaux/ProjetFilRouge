@@ -72,3 +72,9 @@ ProjetFilRouge/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 ProjetFilRouge/DerivedDataCache/*
+
+# .idea
+ProjetFilRouge/.idea/*
+
+# Rider
+ProjetFilRouge/Plugins/Developer/RiderLink/*
